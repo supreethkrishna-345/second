@@ -1,0 +1,11 @@
+h2{ 
+color: lightgreen; 
+text-transform: uppercase; 
+text-align: center; 
+} 
+p{ 
+text-align: center; 
+letter-spacing: 8px; 
+word-spacing: 16px; 
+text-shadow: 8px16px2.5px grey; 
+}
